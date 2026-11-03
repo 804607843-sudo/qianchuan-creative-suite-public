@@ -3,7 +3,7 @@
 该项目是「千川优质工具」门户页面的外部访问版本，目前仅展示 3 个已确认的功能模块：
 
 1. 爆款素材洞察：https://804607843-sudo.github.io/
-2. 优质素材参考：https://magic.solutionsuite.cn/app/vuGLD01LO3j?refresh=20261103
+2. 优质素材参考：https://f732e5d921b4.aime-site.bytedance.net/
 3. 素材经营计算器：https://804607843-sudo.github.io/material-team-multi-client-calculator/lark-material-team-calculator.html
 
 ## 文件说明
